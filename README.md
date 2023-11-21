@@ -50,4 +50,5 @@ Console.WriteLine(binaryTree.MajorSum());
 ## Tecnologies
 
 Visual Studio 2022
+
 .Net 6
