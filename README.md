@@ -31,8 +31,11 @@ The project consists of the following files:
 ## Code Informations
 
 The binary tree is represented by an array.
+
 The array elements are nodes in the binary tree, the left child of the node is the array index calculated by the equation "2 * i + 1", and the right child is calculated by "2 * i + 2", where "i" is the node index in the array.
+
 The value -1 in the array means the node has no children.
+
 The algorithm is recursive.
 
 ## Example Usage
